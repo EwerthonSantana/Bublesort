@@ -1,0 +1,16 @@
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\Dio.exe
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\Dio.deps.json
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\Dio.runtimeconfig.json
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\Dio.runtimeconfig.dev.json
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\Dio.dll
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\ref\Dio.dll
+C:\Users\ewert\source\repos\ConsoleApp2\bin\Debug\net5.0\Dio.pdb
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\Dio.dll
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\ref\Dio.dll
+C:\Users\ewert\source\repos\ConsoleApp2\obj\Debug\net5.0\Dio.pdb
